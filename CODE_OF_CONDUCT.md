@@ -14,7 +14,7 @@ Examples of unacceptable behavior:
 - Public or private harassment
 
 ## Reporting
-If you experience or witness unacceptable behavior, please contact the project maintainer at [your-email@example.com].
+If you experience or witness unacceptable behavior, please contact the project maintainer at (meowmeow@example.com).
 
 ## Enforcement
 Project maintainers have the right to remove, edit, or reject comments, commits, code, issues, and other contributions that do not align with this Code of Conduct.
