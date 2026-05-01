@@ -24,20 +24,6 @@ This project strictly aligns with the DPG standard:
 ---
 
 ## ⚙️ System Architecture & Workflow
-
-*(GitHub automatically renders this flowchart!)*
-
-```mermaid
-graph TD;
-    User([👤 Local Resident]) -->|1. Submits Anonymous Report| Form(📝 Symptom Form)
-    Form -->|2. Processes Data| Core{System Engine}
-    Core -->|3. Updates Visuals| Map[🗺️ Public Heatmap]
-    Core -->|4. Checks Thresholds| AlertSystem((🔔 Alert System))
-    AlertSystem -->|5. Sends Notification| Sub([Subscribers & Clinics])
-    
-    style User fill:#e1f5fe,stroke:#03a9f4,stroke-width:2px
-    style Map fill:#c8e6c9,stroke:#4caf50,stroke-width:2px
-    style AlertSystem fill:#ffcdd2,stroke:#f44336,stroke-width:2px
 📂 Project Structure
 Plaintext
 community-health-map/
@@ -47,6 +33,7 @@ community-health-map/
 ├── CONTRIBUTING.md          # Guide for new developers
 ├── LICENSE                  # MIT License
 └── README.md                # Project documentation
+
 🤝 Core Team & Contributors
 We are an open-source team dedicated to public health:
 
